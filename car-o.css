@@ -1,0 +1,302 @@
+body{
+    margin: 0;
+}
+
+*{
+
+    box-sizing: border-box;
+
+}
+
+header{
+    background-color: gainsboro;
+    display: flex;
+    justify-content: space-around;
+}
+
+.main-1 {
+    margin: 20px 0;
+}
+
+.main-1 a{
+    font-size: 20;
+    text-decoration: none;
+   
+    font-weight: bolder;
+}
+   
+
+.main-1 a:hover{
+    color: rgb(104, 107, 109);
+}
+
+
+.main-2{
+    display: flex;
+    align-items: center;
+    
+}
+
+.div-1{
+   margin-right: 20px;
+}
+.div-1 a{
+   text-decoration: none;
+   margin-right: 5px;
+}
+.div-1 a:hover{
+    color: aliceblue;
+}
+
+
+.div-2{
+   margin-right: 20px;
+}
+.div-2 a{
+   text-decoration: none;
+   margin-right: 5px;
+}
+.div-2 a:hover{
+    color: aliceblue;
+}
+.div-3{
+   margin-right: 20px;
+}
+.div-3 a{
+   text-decoration: none;
+   margin-right: 5px;
+}
+.div-3 a:hover{
+    color: aliceblue;
+}
+
+
+section{
+    background-color: blueviolet;
+    display: flex;
+    justify-content: space-around;
+     height: 140px; 
+      
+   
+}
+
+main{
+    display: flex;
+    background-color: gainsboro;
+    height: 100px;
+}
+
+.car-1{
+    font-size: 18px;
+    font-weight: 100;
+    margin-top: -30px;
+}
+
+.car-1 p{
+    line-height: 25px;
+    font-size: 14px;
+    width: 550px;
+}
+
+.car-4{
+    padding: 0 40px;
+
+}
+
+.card-r{
+    border: 4px solid blue;
+    background-color: rgb(255, 252, 252);
+    padding: 20px;
+}
+
+.div-q h2{
+    padding: 0 50px;
+    font-size: 25px;
+    font-weight: 100;
+
+}
+   
+
+.div-w h2{
+    font-size: 20px;
+    font-weight: 300;
+
+}
+
+.div-w p{
+    font-size: 16px;
+    line-height: 22px;
+}
+
+.main-3 a{
+    display: block;
+    margin: 30px 150px;
+    font-size: 60px;
+    text-decoration: none;
+    font-weight: bolder;
+    background-color:black;
+    color: white;
+    padding: 30px;
+}
+
+.main-4{
+    display: flex;
+    /* margin: 70px ; */
+    padding: 70px ;
+  
+    
+}
+
+.div-4 a{
+
+font-size: 20px;  
+text-decoration: none;
+margin: 0 15px;
+background-color: black;
+color: white;
+padding: 7px;
+border-radius: 5px;
+}
+.div-4 a:hover{
+    color: rgb(96, 98, 99);
+
+}
+.div-5 a{
+
+font-size: 20px;  
+text-decoration: none;
+margin: 0 15px;
+background-color: black;
+color: white;
+padding: 7px;
+border-radius: 5px;
+}
+.div-5 a:hover{
+    color: rgb(96, 98, 99);
+
+}
+.div-6 a{
+
+font-size: 20px;  
+text-decoration: none;
+margin: 0 15px;
+background-color: black;
+color: white;
+padding: 7px;
+border-radius: 5px;
+}
+.div-6 a:hover{
+    color: rgb(96, 98, 99);
+
+}
+.div-7 a{
+
+font-size: 20px;  
+text-decoration: none;
+margin: 0 15px;
+background-color: black;
+color: white;
+padding: 7px;
+border-radius: 5px;
+}
+.div-7 a:hover{
+    color: rgb(96, 98, 99);
+
+}
+.div-8 a{
+
+font-size: 20px;  
+text-decoration: none;
+margin: 0 15px;
+background-color: black;
+color: white;
+padding: 7px;
+border-radius: 5px;
+}
+.div-8 a:hover{
+    color: rgb(96, 98, 99);
+
+}
+
+main{
+    background-color: gainsboro;
+    height: 900px;
+    padding: 80px 200px ;
+
+}
+
+.card{
+    background-color: white;
+    width: 100%;
+    border: 4px solid blue;
+    height: 365px;
+}
+
+.inf p{
+    padding: 80px ;
+    margin: 100px 100px;
+    display: flex;
+    font-size: 40px;
+    font-weight: 900;
+}
+    
+
+
+.book-p{
+    display: flex;
+    margin: 50px -10px;
+
+
+}
+
+
+
+
+    
+
+    
+
+   
+
+
+
+   
+
+
+
+footer{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(132, 6, 249);
+     height: 100px;
+}
+
+.car-y{
+    color: wheat;
+    padding: 0 400px;
+    margin: 30px 0;
+}
+
+
+.car-2{
+   padding: 20px 20px 40px;
+   margin-right: 70px;
+   background-color: rgba(75, 75, 112, 0.742);
+   height: 50px;
+   padding: 10px 10px;
+   margin: 30px 0;
+}
+
+.car-2 a{
+    margin: 0 10px;
+    font-size: 20px;
+}
+
+.car-2 a:hover{
+    color: blueviolet;
+}
+
+.car-q{
+    background-color: gainsboro;
+    height: 50px;
+}
